@@ -1,4 +1,4 @@
-以下是一个基于你提供的信息生成的 GitHub README 示例：
+
 
 # Eclipse Conversational AI Platform
 
